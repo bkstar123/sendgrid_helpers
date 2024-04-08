@@ -1,6 +1,6 @@
 <?php
 /**
- * CFBaseService
+ * SendgridBase Service
  *
  * @author: tuanha
  */
